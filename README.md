@@ -1,4 +1,4 @@
-# imgprocessor
+# Image Processing
 image processing code for research
 
 1. Image Checker
